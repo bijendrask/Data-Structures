@@ -7,3 +7,16 @@
       5. MultiplyTwoMatrix
       6. Spiral2dMatrix
       7. TransposeMatrix
+
+2. SubArray
+      1. CumilativeMaxSubArray
+      2. KadanesAlgoForMaxSubArray
+      3. LongstSubArray
+      4. LongstZeroSubbarray
+      5. MaxCircularSubArrayMax
+      6. MaxPairSumProblem
+      7. MaxZeroSubArrray
+      8. PairSumProb
+      9. subarray
+      10. subarraymax
+      11. subarraymaxsum
