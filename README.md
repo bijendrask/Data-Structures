@@ -1,1 +1,9 @@
 # Data-Structures
+1. 2dArray
+      1. 2dArrayInputOutput
+      2. 2dArraySearchNo
+      3. 2dArraySearchNoUsingFlag
+      4. FindNoIn2d
+      5. MultiplyTwoMatrix
+      6. Spiral2dMatrix
+      7. TransposeMatrix
